@@ -1,0 +1,26 @@
+
+#menu ul{
+     background-color:#DF7401;
+    padding:20px;
+    text-align:center;
+  
+}
+#menu ul li{
+    
+    display:inline-block;
+    padding:8px 40px;
+    font-size:25px;
+
+}
+#menu ul li a{
+    color:white;
+    /*background-color:blue;*/
+    padding:10px 30px;
+    text-decoration:none;
+    text-transform:capitalize;
+    border-radius:30px;
+}
+#menu ul li a:hover{
+    background-color:green;
+    color:white;
+}
